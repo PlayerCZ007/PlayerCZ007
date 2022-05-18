@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PlayerCZ007
+- 👋 Hi, I’m @PlayerCZ
 - 👀 I’m interested in HTML
 - 🌱 I’m currently learning Python
 - 📫 How to reach me:
