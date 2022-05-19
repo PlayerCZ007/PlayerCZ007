@@ -11,7 +11,7 @@
 </a>
 
 -<a href="https://www.youtube.com/channel/UCiRikk7Yrnb1Uj3rt_N7hpw" target="blank">
-  <img align="center" src="https://popcornfilm.tk/podweb/youtube.png" alt="PlayerCZ" height="40" width="30" />
+  <img align="center" src="https://popcornfilm.tk/podweb/youtube.png" alt="PlayerCZ" height="30" width="40" />
 </a>
 
 -<a href="https://www.twitch.tv/playercz007" target="blank">
