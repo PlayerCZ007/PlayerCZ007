@@ -11,11 +11,11 @@
 </a>
 
 -<a href="https://www.youtube.com/channel/UCiRikk7Yrnb1Uj3rt_N7hpw" target="blank">
-  <img align="center" src="https://save.flowerhost.tk/youtube.jpg" alt="PlayerCZ" height="30" width="40" />
+  <img align="center" src="https://save.flowerhost.tk/youtube.png" alt="PlayerCZ" height="30" width="40" />
 </a>
 
 -<a href="https://www.twitch.tv/playercz007" target="blank">
-  <img align="center" src="https://save.flowerhost.tk/twitch.jpg" alt="playercz007" height="40" width="40" />
+  <img align="center" src="https://save.flowerhost.tk/twitch.png" alt="playercz007" height="40" width="40" />
 </a>
 
 -<a href="https://www.tiktok.com/@playerczsk" target="blank">
