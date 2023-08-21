@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @PlayerCZ
 - 👀 I’m interested in Web coding
-- 📫 Contact me:
--   youtube: PlayerCZ 
--   twitch: playercz007 
+- 📫 You can find me on:
+-   instagram: <a href="https://www.instagram.com/playercz_/" targer="blank">playercz</a>
+-   youtube: <a href="https://www.youtube.com/channel/UCiRikk7Yrnb1Uj3rt_N7hpw" target="blank">PlayerCZ</a> 
+-   twitch: <a href="https://www.twitch.tv/playercz007" target="blank">playercz007</a>
 -   discord: playercz
 
   Current project: <a href="https://myssh.gq">myssh</a>
