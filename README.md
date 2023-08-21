@@ -6,7 +6,6 @@
 -   twitch: <a href="https://www.twitch.tv/playercz007" target="blank">playercz007</a>
 -   discord: playercz
 
-  Current project: <a href="https://myssh.gq">myssh</a>
-  
-  All of my current work is currently copyrighted on web <a href="https://copyrighted.com" target="blank">copyrighted.com</a>
+  Current project: <a href="https://myssh.gq">myssh</a>  
+  All of my current work is currently copyrighted under <a href="https://copyrighted.com" target="blank">copyrighted.com</a></br>
   <a class="copyrighted-badge" title="Copyrighted.com Registered &amp; Protected" target="_blank" href="https://www.copyrighted.com/work/B7SxgBYS3taQ14rJ"><img alt="Copyrighted.com Registered &amp; Protected" border="0" width="125" height="25" srcset="https://static.copyrighted.com/badges/125x25/01_1_2x.png 2x" src="https://static.copyrighted.com/badges/125x25/01_1.png" /></a>
