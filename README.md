@@ -5,7 +5,7 @@
 -   twitch: playercz007 
 -   discord: playercz
 
-  Current project: <a href="https://myssh.gq">
+  Current project: <a href="https://myssh.gq">myssh</a>
 
 <a href="https://www.instagram.com/playercz_/" target="blank">
   <img align="center" src="https://save.flowerhost.tk/instagram.jpg" alt="playercz_" height="40" width="40" />
